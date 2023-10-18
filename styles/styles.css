@@ -5,22 +5,18 @@ body {
     background-repeat: no-repeat;
     height:100vh;
 }
-<<<<<<< HEAD
     @font-face {
-=======
 
 h1 {
     font-family: 'shlop';
-}
+}}
 @font-face {
->>>>>>> 4a3a0600d2323fbadfcaff66a2b37d2a4f5793a2
     font-family: shlop;
     src: url(/assets/shlop\ rg.otf);
 }
 
 .scaryFont {
     font-family: 'shlop';
-<<<<<<< HEAD
 }
 
 .center {
@@ -52,6 +48,4 @@ h1 {
 
 .linkTxt {
     padding: 15px 25px;
-=======
->>>>>>> 4a3a0600d2323fbadfcaff66a2b37d2a4f5793a2
 }
