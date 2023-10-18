@@ -1,10 +1,11 @@
-<<<<<<< HEAD
+
 body {
     background-image: linear-gradient(to bottom right, #EB6122, #431C52);
     background-size: auto;
     background-repeat: no-repeat;
     height:100vh;
-=======
+}
+
 @font-face {
     font-family: shlop;
     src: url(/assets/shlop\ rg.otf);
@@ -12,5 +13,4 @@ body {
 
 .scaryFont {
     font-family: 'shlop';
->>>>>>> 714064d0fb3f100310298b3192dc41eb715e7875
 }
