@@ -1,16 +1,45 @@
-<<<<<<< HEAD
 body {
     background-image: linear-gradient(to bottom right, #EB6122, #431C52);
     background-size: auto;
     background-repeat: no-repeat;
     height:100vh;
-=======
-@font-face {
+}
+    @font-face {
     font-family: shlop;
     src: url(/assets/shlop\ rg.otf);
 }
 
 .scaryFont {
     font-family: 'shlop';
->>>>>>> 714064d0fb3f100310298b3192dc41eb715e7875
+}
+
+.center {
+    text-align: center;
+}
+
+.white {
+    color: white;
+    text-shadow: 2px 2px 4px #36393e;
+}
+
+.link {
+    margin-top: 40vh;
+    text-shadow: 2px 2px 4px #36393e;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    background-color: #36393e;
+    text-decoration: none;
+    border-radius: 25px;   
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.link:hover {
+    transform: scale(1.2);
+}
+
+.linkTxt {
+    padding: 15px 25px;
 }
