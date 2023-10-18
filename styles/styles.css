@@ -6,6 +6,9 @@ body {
     height:100vh;
 }
 
+h1 {
+    font-family: 'shlop';
+}
 @font-face {
     font-family: shlop;
     src: url(/assets/shlop\ rg.otf);
