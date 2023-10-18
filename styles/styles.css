@@ -5,7 +5,11 @@ body {
     background-repeat: no-repeat;
     height:100vh;
 }
+<<<<<<< HEAD
     @font-face {
+=======
+
+>>>>>>> 6060fae5922ff7013629a0e0f2afb69a9f9e076b
 
 h1 {
     font-family: 'shlop';
@@ -17,6 +21,10 @@ h1 {
 
 .scaryFont {
     font-family: 'shlop';
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6060fae5922ff7013629a0e0f2afb69a9f9e076b
 }
 
 .center {
