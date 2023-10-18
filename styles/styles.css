@@ -5,12 +5,11 @@ body {
     background-repeat: no-repeat;
     height:100vh;
 }
-    @font-face {
-
 
 h1 {
     font-family: 'shlop';
-}}
+    font-size: 100px;
+}
 @font-face {
     font-family: shlop;
     src: url(/assets/shlop\ rg.otf);
