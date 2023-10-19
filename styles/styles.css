@@ -128,7 +128,7 @@ h1 {
 .rundown {
     background-image: url(../assets/suresh-pydikondala-abandoned-house.jpg);
     width: 100%;
-    background-position: cover;
+    background-size: cover;
 }
 
 .melatonin {
