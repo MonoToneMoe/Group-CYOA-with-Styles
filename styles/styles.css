@@ -131,16 +131,13 @@ h1 {
 }
 
 .melatoninImg {
-    position: absolute;
-    width: 350px;
-    bottom: 70px;
+    
+    width: 150px;
     left: 35%;
 }
 
 .zzz {
-    position: absolute;
     width: 100px;
-    bottom: 250px;
     right: 35%;
 }
 
@@ -149,4 +146,21 @@ h1 {
     position: absolute;
     bottom: 20px;
     right: 25px;
+}
+
+.linkMel {
+    text-shadow: 2px 2px 4px #36393e;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    background-color: #36393e;
+    text-decoration: none;
+    border-radius: 25px;   
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.linkMel:hover {
+    transform; scale: 1.2;
 }
