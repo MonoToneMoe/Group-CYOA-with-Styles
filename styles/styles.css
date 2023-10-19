@@ -43,6 +43,14 @@ h1 {
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
+.yes {
+    margin-top: 30vh;
+}
+
+.no {
+    margin-top: 10vh;
+}
+
 .link:hover {
     transform: scale(1.2);
 }
