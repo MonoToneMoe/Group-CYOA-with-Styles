@@ -1,7 +1,7 @@
 
 body {
     background-image: linear-gradient(to bottom right, #EB6122, #431C52);
-    background-size: cover;
+    background-size: auto;
     background-repeat: no-repeat;
     height:100vh;
     text-align: center;
@@ -127,6 +127,11 @@ h1 {
 
 .rundown {
     background-image: url(../assets/suresh-pydikondala-abandoned-house.jpg);
+    width: 100%;
     background-size: cover;
-    /* width: 100%; */
+}
+
+.melatonin {
+    background-image: url(../assets/nap-time-karl-addison.jpg);
+    background-position: center;
 }
