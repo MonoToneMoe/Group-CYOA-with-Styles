@@ -15,6 +15,7 @@ h1 {
     font-family: 'shlop';
     /* font-size: 100px; */
     font-size: 50px;
+    color: red;
 }
 @font-face {
     font-family: shlop;
@@ -114,8 +115,4 @@ h1 {
 
 .arial {
     font-family: Arial, Helvetica, sans-serif;
-}
-
-.bloodRed {
-    color: red;
 }
