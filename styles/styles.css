@@ -133,5 +133,6 @@ h1 {
 
 .melatonin {
     background-image: url(../assets/nap-time-karl-addison.jpg);
-    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
