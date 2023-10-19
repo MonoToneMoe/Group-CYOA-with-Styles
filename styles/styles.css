@@ -124,3 +124,8 @@ h1 {
 .arial {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.rundown {
+    background-image: url(../assets/suresh-pydikondala-abandoned-house.jpg);
+    width: 100%;
+}
