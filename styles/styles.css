@@ -4,6 +4,7 @@ body {
     background-size: auto;
     background-repeat: no-repeat;
     height:100vh;
+    text-align: center;
 }
 
 a{
@@ -100,4 +101,11 @@ h1 {
 
 .no {
     margin-top: 5vh;
+}
+
+.storyTxt {
+    background-color: rgba(0,0,0,.50);
+    border-radius: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
