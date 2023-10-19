@@ -134,3 +134,10 @@ h1 {
     background-image: url(../assets/nap-time-karl-addison.jpg);
     background-position: center;
 }
+
+.imgSize {
+    width: 200px;
+    position: absolute;
+    bottom: 20px;
+    right: 25px;
+}
