@@ -1,7 +1,7 @@
 
 body {
     background-image: linear-gradient(to bottom right, #EB6122, #431C52);
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     height:100vh;
     text-align: center;
@@ -127,5 +127,6 @@ h1 {
 
 .rundown {
     background-image: url(../assets/suresh-pydikondala-abandoned-house.jpg);
-    width: 100%;
+    background-size: cover;
+    /* width: 100%; */
 }
