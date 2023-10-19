@@ -164,3 +164,8 @@ h1 {
 .linkMel:hover {
     transform: scale(1.2);
 }
+
+.nether {
+    background-image: url(../assets/act0e6cm98d51.png);
+    background-size: cover;
+}
