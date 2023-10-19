@@ -111,3 +111,11 @@ h1 {
     padding-left: 5px;
     padding-right: 5px;
 }
+
+.arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloodRed {
+    color: red;
+}
