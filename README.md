@@ -1,4 +1,4 @@
-# George Haddad, Alexander Soria, Jayvon qhuth
+# George Haddad, Alexander Soria, Jayvon Khuth
 # 10/19/2023
 # Group-CYOA-with-Styles
 # We made multiple pages for each individual option you choose.
